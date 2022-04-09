@@ -1,0 +1,9 @@
+*/*~
+
+Python/__pycache__/*
+
+__déchets__/
+
+notebooks/.ipynb_checkpoints
+
+dataset/*/*
